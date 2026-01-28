@@ -1,6 +1,6 @@
 # Thot Disk – KDE Plasma Disk Usage Widget
 
-![Thot Disk Widget Preview](contents/Screenshot_20260128_173430.png)
+![Thot Disk Widget Preview](Screenshot_20260128_173430.png)
 
 
 for more information and setup instruction go read https://github.com/kriansh/thot-disk-inspirational/blob/main/README.md
